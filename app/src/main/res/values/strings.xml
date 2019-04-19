@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test20</string>
+    <string name="title1">請選擇比賽項目：</string>
+    <string name="t1_1">足球</string>
+    <string name="t1_2">棒球</string>
+    <string name="title2">請選擇身分別：</string>
+    <string name="t2_1">男</string>
+    <string name="t2_2">女</string>
+</resources>
